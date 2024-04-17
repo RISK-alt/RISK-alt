@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on fivem server
+🔭 I'm currently working on fivem server, but i follow my personal project ! 
 
 
 ## 🌐 Socials:
