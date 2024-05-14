@@ -15,7 +15,7 @@ My aim is to continue after my years of study in cybersecurity, or operational d
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
     </a>
   <a href="https://x.com/riskr6s">
-        <img src="[https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white](https://img.shields.io/badge/x-0d0d0d?style=for-the-badge&logo=x&logoColor=dark%22%20alt=%22x%20logo%22")">
+        <img src="[https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white](https://img.shields.io/badge/x-0d0d0d?style=for-the-badge&logo=x&logoColor=dark%22%20alt=%22x%20logo%22">
     </a>
     <a href="https://www.instagram.com/na/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"
