@@ -11,14 +11,15 @@ My aim is to continue after my years of study in cybersecurity, or operational d
 
 <br/><br/>
 <p align='center'>
-    <a href="https://www.linkedin.com/in/na/">
+    <a href="https://www.linkedin.com/in/mael-rabot/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+        </a>
+    <a href="https://twitter.com/riskr6s/na/">
+        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X logo"
     </a>
-  <a href="https://x.com/riskr6s">
-        <img src="[https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white](https://img.shields.io/badge/x-0d0d0d?style=for-the-badge&logo=x&logoColor=dark%22%20alt=%22x%20logo%22">
-    </a>
-    <a href="https://www.instagram.com/na/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo">
+    <a href="https://www.instagram.com/mael._.rabot/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"
+>
 </p>
 
 <br/>
