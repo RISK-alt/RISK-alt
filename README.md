@@ -23,7 +23,4 @@ My aim is to continue after my years of study in cybersecurity, or operational d
 
 
 ---
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=RISK-alt&icon=2&color=0)](https://visitcount.itsvg.in)
 
