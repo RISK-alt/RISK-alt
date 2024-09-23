@@ -4,7 +4,7 @@
 </p>
 
 Apprentice developer at Epitech Technology Lyon, my years start in september 2024.<br/>
-My aim is to continue after my years of study in cybersecurity, or operational development.<br/>
+My goal is to continue after my years of study in cybersecurity, or operational development.<br/>
 
 - 📫 Do you want to contact me ?: [**`risk0911`**](mailto:aldu6974@gmail.com)
 ---
