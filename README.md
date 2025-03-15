@@ -1,9 +1,8 @@
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=6000&pause=1000&color=9C00BD&vCenter=true&repeat=false&random=false&width=435&lines=Student+at+Epitech+from+September+2024" 
-  alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=337DF7&width=435&lines=MID+STACK+DEVELOPER" alt="Typing SVG" /></a>
 </p>
 
-Apprentice developer at Epitech Technology Lyon, my years start in september 2024.<br/>
+ex Apprentice developer at Epitech Technology Lyon, my years start in september 2024.<br/>
 My goal is to continue after my years of study in cybersecurity, or operational development.<br/>
 
 - 📫 Do you want to contact me ?: [**`risk0911`**](mailto:aldu6974@gmail.com)
